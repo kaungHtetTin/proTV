@@ -1,0 +1,23 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:id="@+id/refresh"
+        android:title="Refresh"/>
+	<item
+        android:id="@+id/copy"
+        android:title="Copy link"/>
+   
+	<item
+        android:id="@+id/share"
+        android:title="Share Video"/>
+	<item
+        android:id="@+id/download"
+        android:title="Download on SaveFrom.net"/>
+	
+	<item
+        android:id="@+id/open"
+        android:title="Open in YouTube"/>
+	
+	
+</menu>

@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "857477570953",
+    "firebase_url": "https://protv-cd84c-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "protv-cd84c",
+    "storage_bucket": "protv-cd84c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:857477570953:android:ba8732ebb7e25fe8710158",
+        "android_client_info": {
+          "package_name": "com.protv.mm"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "857477570953-ob2cqti5a4sqtb387upiasfucn270qte.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAy84JmTR8yz9_l8mp5vYoNsIfPId4LAhQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "857477570953-ob2cqti5a4sqtb387upiasfucn270qte.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

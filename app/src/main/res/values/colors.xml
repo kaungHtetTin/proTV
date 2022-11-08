@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="purple_200">#FFBB86FC</color>
+    <color name="purple_500">#FF6200EE</color>
+    <color name="purple_700">#FF3700B3</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+
+    <color name="primary">#673AB7</color>
+    <color name="primary_dark">#673AB7</color>
+    <color name="accent">#FFFFFF</color>
+    <color name="dia_bg">#F24C4C4C</color>
+
+    <color name="videoCard">#2F2F2F</color>
+    <color name="likeCard">#434343</color>
+
+    <color name="backG">#161616</color>
+    <color name="fab">#40162E</color>
+
+    <color name="normal">#D08E16</color>
+    <color name="press">#7C5610</color>
+
+    <color name="db_normal">#FFffff</color>
+    <color name="db_press">#633B00</color>
+
+    <color name="wb_normal">#008AFF</color>
+    <color name="wb_press">#003767</color>
+
+    <color name="cb_normal">#77612A</color>
+    <color name="cb_press">#7C6810</color>
+
+    <color name="btnColor">#0D0800</color>
+    <color name="btnTint">#0D0800</color>
+
+    <color name="refresh_progress_1">#FF8D00</color>
+    <color name="refresh_progress_2">#008AFF</color>
+
+</resources>
